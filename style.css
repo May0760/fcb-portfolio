@@ -1,6 +1,9 @@
 *{
 	font-family: "Roboto", sans-serif;
 }
+.navbar {
+	color: #e54373
+}
 
 h1,h2{
 	font-family: 'Sunflower', sans-serif;
